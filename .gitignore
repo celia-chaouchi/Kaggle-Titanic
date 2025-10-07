@@ -1,0 +1,22 @@
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+*.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Data files (optionnel, si tu ne veux pas les suivre)
+*.csv
+*.json
+*.xlsx
+
+# Mac OS metadata
+.DS_Store
+
